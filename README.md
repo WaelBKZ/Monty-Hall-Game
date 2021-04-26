@@ -8,5 +8,5 @@ As expected, the second strategy is the best out of the three following strategi
  
  
  FAQ:  
-- **Is it useless?**\yes.   
-- **Did I just do it out of scepticism to a youtube video I just watched?**\also yes.
+- **Is it useless?**yes.   
+- **Did I just do it out of scepticism to a youtube video I just watched?**also yes.
